@@ -34,3 +34,14 @@ This project demonstrates a **directive technical control** because it gives use
 ## Control Type
 - **Category:** Technical
 - **Function:** Directive
+
+## Screenshots
+
+### Login Warning Banner
+![Login Warning Banner](login-banner-warning-screen.png)
+
+### PowerShell Verification
+![PowerShell Verification](login-banner-powershell-verification.png)
+
+### Login Screen Test
+![Login Screen Test](login-banner-login-screen-test.png)
